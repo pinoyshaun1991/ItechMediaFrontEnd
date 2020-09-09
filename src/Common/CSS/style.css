@@ -1,0 +1,67 @@
+div#section {
+    background-color: #2e2be2;
+    width: 365pt;
+    float: left;
+    border-radius: 3pt;
+    margin-left: 110pt;
+    margin-bottom: 13pt;
+}
+
+form#servings input {
+    margin-left: 48pt;
+    margin-top: -36pt;
+    width: 136pt;
+    border-radius: 3pt;
+    height: 27pt;
+}
+
+div#section h1 {
+    margin-left: 49pt;
+    color: white;
+}
+
+input#submit {
+    background-color: #2e2be2;
+    border-color: white;
+    margin-top: 13pt !important;
+}
+
+#time {
+    color: white;
+    margin-left: 208pt;
+}
+
+#ingredients {
+    background-color: #2e2be2;
+    width: 334pt;
+    float: right;
+    border-radius: 3pt;
+    margin-left: 71pt;
+    margin-right: 68pt;
+    height: 650pt;
+}
+
+#ingredients h1 {
+    color: white;
+    margin-left: 29pt;
+}
+
+#ingredients ul {
+    list-style: none;
+    color: white;
+}
+
+#method {
+    color: #2e2be2;
+}
+
+#methodSection {
+    width: 400pt;
+    margin-left: 150pt;
+}
+
+ul {
+    height: 200pt;
+    width: 290pt;
+    overflow-y: scroll;
+}
